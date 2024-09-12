@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChoDoiDoUTE</string>
+    <string name="QuenMatKhau_GachChan" ><u>Quên mật khẩu?</u></string>
+    <string name="DangKy" ><b><u>Đăng ký</u></b></string>
+</resources>
